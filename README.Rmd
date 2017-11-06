@@ -1,0 +1,14 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data-Science-Capstone
+
+## Simple Milestone Project
+
+#### Follow this link to see it: [Simple Milestone Project](https://rpubs.com/ptaal/milestone)
+
