@@ -1,8 +1,4 @@
 
-```{r setup, include=FALSE, echo=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Data-Science-Capstone
 
 ## Simple Milestone Project
