@@ -1,6 +1,10 @@
 
 # Data-Science-Capstone
 
+## Final NLP, not good!!
+
+#### [NLP-text prediction](https://ptaal.shinyapps.io/shinyApp/)
+
 ## Simple Milestone Project
 
 #### Follow this link to see it: [Simple Milestone Project](https://rpubs.com/ptaal/milestone)
